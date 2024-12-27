@@ -79,7 +79,7 @@ The web interface will be available at http://localhost:8501
 ## Project Structure
 
 ```
-slik-analyzer/
+ideb-slik-parser/
 ├── .env
 ├── requirements.txt
 ├── src/
